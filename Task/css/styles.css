@@ -1,0 +1,28 @@
+h1{
+    color: blue;
+}
+
+.product{
+border: 5px solid black;
+  box-sizing: border-box;
+  width: 200px;
+  height: 220px;
+  padding: 15px; 
+  text-align: center;
+  margin: 30px;
+}
+.checkbox{
+    float: left;
+}
+
+.navbar-nav.navbar-center { 
+        position: absolute; 
+        left: 50%; 
+        transform: translatex(-50%); 
+        
+} 
+.active {
+        color: rgb(14, 9, 41);
+        background-color: rgb(182, 27, 27);
+}
+
